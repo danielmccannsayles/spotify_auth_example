@@ -2,7 +2,7 @@
 
 This project was created as an example of an angular project that implements Spotify authentication with the OAuth2 Authorization Code Flow with the PKCE extension. Read the medium article tutorial here
 
-##Setup
+## Setup
 
 Create a spotify developer account [here](https://developer.spotify.com/dashboard/login), and then create an app following this tutorial: [Create and edit spotify app](https://developer.spotify.com/documentation/general/guides/authorization/app-settings/)
 
