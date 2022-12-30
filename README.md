@@ -1,6 +1,6 @@
 # Spotify Auth Example
 
-This project was created as an example of an angular project that implements Spotify authentication with the OAuth2 Authorization Code Flow with the PKCE extension. Read the medium article tutorial here
+This project was created as an example of an angular project that implements Spotify authentication with the OAuth2 Authorization Code Flow with the PKCE extension. Read the medium article tutorial [here](https://medium.com/@danielmccannsayles/angular-tutorial-spotify-oauth2-authorization-code-flow-with-pkce-bbe9ecc3680a)
 
 ## Setup
 
